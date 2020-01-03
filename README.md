@@ -1,7 +1,11 @@
 ## Tic Tac Toe
 
-No aditional libraries, just go: 
+No additional libraries, just do: 
 
 ```python
 python3 velha.py
 ```
+
+<p align="center">
+ <img  src="velha.png">
+</p>
